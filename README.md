@@ -31,12 +31,12 @@ Contests/
 ## 📊 Online Judges & Profiles
 
 | Platform | Logo | Profile Handle | Primary Focus |
-| --- | --- | --- | --- |
-| **Codeforces** |  | `raihan-hosen` | Division Rounds, Speed, Constructive Algorithms |
-| **CodeChef** |  | `raihan_hosen` | Starters, Short Contests |
-| **LeetCode** |  | `raihan-hosen` | DSA, Core Topics, Biweekly/Weekly Contests |
-| **AtCoder** |  | `raihan_hosen` | ABC/ARC, Implementation & Math Heavy Problems |
-| **HackerRank** |  | `raihanhosen1381` | Basic DSA, Topic-wise Practice |
+| :--- | :---: | :--- | :--- |
+| **Codeforces** | <img src="https://simpleicons.org/icons/codeforces.svg" width="20" height="20" /> | `raihan-hosen` | Division Rounds, Speed, Constructive Algorithms |
+| **CodeChef** | <img src="https://simpleicons.org/icons/codechef.svg" width="20" height="20" /> | `raihan_hosen` | Starters, Short Contests |
+| **LeetCode** | <img src="https://simpleicons.org/icons/leetcode.svg" width="20" height="20" /> | `raihan-hosen` | DSA, Core Topics, Biweekly/Weekly Contests |
+| **AtCoder** | <img src="https://simpleicons.org/icons/atcoder.svg" width="20" height="20" /> | `raihan_hosen` | ABC/ARC, Implementation & Math Heavy Problems |
+| **HackerRank** | <img src="https://simpleicons.org/icons/hackerrank.svg" width="20" height="20" /> | `raihanhosen1381` | Basic DSA, Topic-wise Practice |
 
 ---
 
