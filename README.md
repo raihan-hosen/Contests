@@ -1,49 +1,83 @@
-# Contests
+# 🏆 Competitive Programming Repository
 
-A structured repository containing my solutions to various competitive programming contests and online challenges.
+Welcome to my central repository for **Competitive Programming** and **Algorithmic Problem Solving**. This repository contains my accepted solutions from various online judges and contests, systematically organized for quick reference and tracking.
 
-## 📁 Repository Structure
+---
+
+## 📂 Repository File Structure
 
 ```text
 Contests/
+├── AtCoder/
+│   └── <contest_name>/
+│       └── <problem_name_or_id>.<extension>
+├── Codechef/
+│   └── <contest_name>/
+│       └── <problem_name_or_id>.<extension>
 ├── Codeforces/
 │   └── <contest_name_or_div>/
 │       └── <problem_name_or_id>.<extension>
-└── Codechef/
-    └── <contest_name_or_div>/
+├── HackerRank/
+│   └── <domain_or_contest>/
+│       └── <problem_name_or_id>.<extension>
+└── LeetCode/
+    └── <difficulty_or_contest>/
         └── <problem_name_or_id>.<extension>
 
 ```
 
-### Path Conventions
+---
 
-* **`Codeforces/`** – Contains submissions from Codeforces rounds (e.g., `Div1`, `Div2`, `Div3`, `Global_Round`).
-* **`Codechef/`** – Contains submissions from CodeChef contests (e.g., `Starters`, `Long_Challenge`, `Cook-Off`).
-* **`<contest_name>`** – Directory dedicated to a specific contest.
-* **`Solutions`** – Source code files named corresponding to the problem IDs (e.g., `A.cpp`, `B.cpp`).
+## 📊 Online Judges & Profiles
+
+| Platform | Logo | Profile Handle | Primary Focus |
+| --- | --- | --- | --- |
+| **Codeforces** |  | `raihan-hosen` | Division Rounds, Speed, Constructive Algorithms |
+| **CodeChef** |  | `raihan_hosen` | Starters, Short Contests |
+| **LeetCode** |  | `raihan-hosen` | DSA, Core Topics, Biweekly/Weekly Contests |
+| **AtCoder** |  | `raihan_hosen` | ABC/ARC, Implementation & Math Heavy Problems |
+| **HackerRank** |  | `raihanhosen1381` | Basic DSA, Topic-wise Practice |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚙️ Environment & Setup
 
-* **Language:** C++ (GCC)
-* **Editor/IDE:** VS Code / Code::Blocks
-* **Platform Handles:**
-* **Codeforces:** `[Your_CF_Handle_Here]`
-* **CodeChef:** `[Your_CodeChef_Handle_Here]`
+* **Primary Language:** C++17 / C++20
+* **Compiler:** GCC 11+ (`g++ -O2 -std=c++20`)
+* **IDE / Editor:** VS Code / Code::Blocks
+* **Fast I/O Template:**
 
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long int;
 
+void solve() {
+    // Your solution code here
+}
+
+int main() {
+    ll t;
+    cin >> t;
+    while (t--) {
+        solve();
+    }
+    return 0;
+}
+
+```
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About the Author
 
-* **Department:** Computer Science and Engineering (CSE)
-* **University:** Khwaja Yunus Ali University (KYAU)
-* **Focus:** Algorithms, Data Structures, and Problem Solving
+* **Name:** `MD Raihan Hosen`
+* **Major:** Computer Science and Engineering (CSE)
+* **Institution:** Khwaja Yunus Ali University (KYAU)
+* **Goal:** Master Data Structures & Algorithms, candidate for Candidate Master / Knight across platforms.
 
 ---
 
-## 📝 License
+## 📜 License
 
-This repository is maintained for personal learning and archival purposes. Feel free to reference the solutions for learning!
+This repository is licensed under the [MIT License](https://www.google.com/search?q=LICENSE). Feel free to explore, clone, and use the solutions for learning purposes.
