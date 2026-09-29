@@ -21,8 +21,12 @@ Contests/
 │   └── <domain_or_contest>/
 │       └── <problem_name_or_id>.<extension>
 └── LeetCode/
-    └── <difficulty_or_contest>/
-        └── <problem_name_or_id>.<extension>
+│   └── <domain_or_contest>/
+│        └── <problem_name_or_id>.<extension>
+└── Phitron Speed Contest/
+│   └── <domain_or_contest>/
+│        └── <problem_name_or_id>.<extension>
+        
 
 ```
 
